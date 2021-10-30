@@ -1,5 +1,6 @@
 mod defs;
 mod lexer;
+mod parser;
 
 use std::env;
 
