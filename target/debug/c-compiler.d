@@ -1,0 +1,1 @@
+/Users/ogmalladii/Documents/rust/c-compiler/target/debug/c-compiler: /Users/ogmalladii/Documents/rust/c-compiler/src/defs.rs /Users/ogmalladii/Documents/rust/c-compiler/src/lexer.rs /Users/ogmalladii/Documents/rust/c-compiler/src/main.rs
